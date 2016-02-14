@@ -1,2 +1,3 @@
 # hello-world
-My First Repository
+
+ok. it was mistake. i'd had to change this README file. f
